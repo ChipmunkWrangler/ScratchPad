@@ -354,6 +354,68 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 2
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1001 &705889035
+Prefab:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 4960404783511462, guid: 7e3f16a6f6303419cbd9837f6c746de4, type: 2}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4960404783511462, guid: 7e3f16a6f6303419cbd9837f6c746de4, type: 2}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4960404783511462, guid: 7e3f16a6f6303419cbd9837f6c746de4, type: 2}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4960404783511462, guid: 7e3f16a6f6303419cbd9837f6c746de4, type: 2}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4960404783511462, guid: 7e3f16a6f6303419cbd9837f6c746de4, type: 2}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4960404783511462, guid: 7e3f16a6f6303419cbd9837f6c746de4, type: 2}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4960404783511462, guid: 7e3f16a6f6303419cbd9837f6c746de4, type: 2}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4960404783511462, guid: 7e3f16a6f6303419cbd9837f6c746de4, type: 2}
+      propertyPath: m_RootOrder
+      value: 5
+      objectReference: {fileID: 0}
+    - target: {fileID: 114939446366399424, guid: 7e3f16a6f6303419cbd9837f6c746de4,
+        type: 2}
+      propertyPath: urlOnStart
+      value: http://www.crazy-chipmunk.com
+      objectReference: {fileID: 0}
+    - target: {fileID: 114939446366399424, guid: 7e3f16a6f6303419cbd9837f6c746de4,
+        type: 2}
+      propertyPath: fullScreen
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 114939446366399424, guid: 7e3f16a6f6303419cbd9837f6c746de4,
+        type: 2}
+      propertyPath: frame.width
+      value: 100
+      objectReference: {fileID: 0}
+    - target: {fileID: 114939446366399424, guid: 7e3f16a6f6303419cbd9837f6c746de4,
+        type: 2}
+      propertyPath: frame.height
+      value: 100
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 7e3f16a6f6303419cbd9837f6c746de4, type: 2}
+  m_IsPrefabAsset: 0
 --- !u!1 &914023582
 GameObject:
   m_ObjectHideFlags: 0
